@@ -1,0 +1,2 @@
+# Postgres-Lec8-Jan-15-25
+PARTITION BY, JSONB, INT[], GENERATED ALWAYS, VIEWS, materialized VIEW
